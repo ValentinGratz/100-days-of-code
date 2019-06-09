@@ -1,19 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
 ### Day 0: Avril 2018
 ##### (réalisation en dehors du défis)
 
-**Today's Progress**: Reste à intégrer les données de la BDD dans le tableau de srésultat (suivi.html).
+**Today's Progress**: Reste à intégrer les données de la BDD dans le tableau des résultat (suivi.html).
 
 **Thoughts:** Refonte de la base de donnée sur MySQL à la place de SQLite non pris en charge pas tous les hébergeurs.
+
+**Link to work:** [La perche Basséenne](https://github.com/ValentinGratz/La-Perche-Bass-enne-Carnet)
+
+### Day 1: 9 Juin 2019
+##### (reprise du projet La Perche Basséenne)
+
+**Today's Progress**: Ajout de bout de code pour intégrer la base de donnée au fichier "suivi.html" pour afficher les résultat de la requête. 
 
 **Link to work:** [La perche Basséenne](https://github.com/ValentinGratz/La-Perche-Bass-enne-Carnet)

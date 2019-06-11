@@ -15,3 +15,6 @@
 **Today's Progress**: Ajout de bout de code pour intégrer la base de donnée au fichier "suivi.html" pour afficher les résultat de la requête. 
 
 **Link to work:** [La perche Basséenne](https://github.com/ValentinGratz/La-Perche-Bass-enne-Carnet)
+
+###  Petite pause dans le challenge
+Je fais une petite pause dans le challenge, je ne le fais pas vraiment tous les jours, je le fait à mon rythme, à ma sauce. Mais en fait, en même temps je m'entraine et j'apprend à coder via des formation udemy, freeCodeCamp. 

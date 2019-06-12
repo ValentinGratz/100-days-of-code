@@ -27,3 +27,10 @@ Je fais une petite pause dans le challenge, je ne le fais pas vraiment tous les 
 Projet réalisé sur la base du template AdminBSBMterialDesign (github template mis en favoris)
 
 **Link to work:** [SendDocML](https://github.com/ValentinGratz/#)
+
+### Day 2: 12 Juin 2019
+##### (Création d'une todo-list)
+
+**Today's Progress**: J'ai appris comment insérer du code CSS et Javascript dans un fichier HTML
+
+**Link to work:** [Todo list](https://github.com/ValentinGratz/mes-divers-challenges-dev-web/tree/master/todo%20list)

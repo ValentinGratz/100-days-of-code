@@ -18,3 +18,12 @@
 
 ###  Petite pause dans le challenge
 Je fais une petite pause dans le challenge, je ne le fais pas vraiment tous les jours, je le fait à mon rythme, à ma sauce. Mais en fait, en même temps je m'entraine et j'apprend à coder via des formation udemy, freeCodeCamp. 
+
+###  Nouveau projet
+##### SendDocML
+
+**Today's Progress**: Début du second projet pour le challenge. Création d'un espace d'envoi de fichier du style de la page d'envoie de document pôle emploi, mais spécialement pour transmettre ses documents à son conseiller Mission Locale.
+
+Projet réalisé sur la base du template AdminBSBMterialDesign (github template mis en favoris)
+
+**Link to work:** [SendDocML](https://github.com/ValentinGratz/#)

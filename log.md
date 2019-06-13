@@ -26,7 +26,7 @@ Je fais une petite pause dans le challenge, je ne le fais pas vraiment tous les 
 
 Projet réalisé sur la base du template AdminBSBMterialDesign (github template mis en favoris)
 
-**Link to work:** [SendDocML](https://github.com/ValentinGratz/#)
+**Link to work:** [SendDocML](https://github.com/ValentinGratz/SendDocML)
 
 ### Day 2: 12 Juin 2019
 ##### (Création d'une todo-list)
@@ -34,3 +34,11 @@ Projet réalisé sur la base du template AdminBSBMterialDesign (github template 
 **Today's Progress**: J'ai appris comment insérer du code CSS et Javascript dans un fichier HTML
 
 **Link to work:** [Todo list](https://github.com/ValentinGratz/mes-divers-challenges-dev-web/tree/master/todo%20list)
+
+### Day 3: 13 Juin 2019
+##### SendDocML
+
+**Today's Progress**: Modifier le templ&te de base, création de début de formulaire de transfert de fichiers.
+**Work**: Essayer d'intégrer un système de transfert de fichier, type dragfile et non un système basique.
+
+**Link to work:** [SendDocML](https://github.com/ValentinGratz/SendDocML)

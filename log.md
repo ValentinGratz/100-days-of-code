@@ -39,6 +39,16 @@ Projet réalisé sur la base du template AdminBSBMterialDesign (github template 
 ##### SendDocML
 
 **Today's Progress**: Modifier le templ&te de base, création de début de formulaire de transfert de fichiers.
+
 **Work**: Essayer d'intégrer un système de transfert de fichier, type dragfile et non un système basique.
 
 **Link to work:** [SendDocML](https://github.com/ValentinGratz/SendDocML)
+
+### Day 4: 1 Juillet 2019
+##### Organise ton voyage (énorme projet commencé hors  chqllenge)
+
+**Today's Progress**: Insertion d'une to-do list à partir d'un exemple cours w3school (lien dispo dans le readme du projet)
+
+**Work**: fichier todolist, voir pour appliquer le JS uniquement aux éléments de la todo-list est non pas à tous les éléments de la page. 
+
+**Link to work:** [Organise ton voyage](https://github.com/Organise-ton-voyage/le-site)

@@ -45,10 +45,27 @@ Projet réalisé sur la base du template AdminBSBMterialDesign (github template 
 **Link to work:** [SendDocML](https://github.com/ValentinGratz/SendDocML)
 
 ### Day 4: 1 Juillet 2019
-##### Organise ton voyage (énorme projet commencé hors  chqllenge)
+##### Organise ton voyage (énorme projet commencé hors  challenge)
 
 **Today's Progress**: Insertion d'une to-do list à partir d'un exemple cours w3school (lien dispo dans le readme du projet)
 
 **Work**: fichier todolist, voir pour appliquer le JS uniquement aux éléments de la todo-list est non pas à tous les éléments de la page. 
 
 **Link to work:** [Organise ton voyage](https://github.com/Organise-ton-voyage/le-site)
+
+### Day 5: 9 Juillet 2019
+##### 2016-vcready thème WordPress
+
+**Today's Progress**: publication des fichier du thème WordPress sur github
+
+**Work**: Revoir la mise en page de présentation des articles, mettre les images d'intro à gauche de l'article et non en grand. 
+
+**Link to work:** [2016-vcready-A2019](https://github.com/ValentinGratz/2016-vcready-A2019)
+
+##### CMSsite - Cash Mail System site OnePage
+
+**Today's Progress**: Création de la première section de la OnePage
+
+**Work**: Créer une OnePage Cash Mail System comme avec un créateur de OnePage lambda
+
+**Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)

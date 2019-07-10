@@ -69,3 +69,10 @@ Projet réalisé sur la base du template AdminBSBMterialDesign (github template 
 **Work**: Créer une OnePage Cash Mail System comme avec un créateur de OnePage lambda
 
 **Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)
+
+### Day 6: 10 Juillet 2019
+##### CMSsite - Cash Mail System site OnePage
+
+**Today's Progress**: Essai de création d'une nouvelle section reprennant le fond de la première section avec le code CSS intégré directement dans la page htmml sans succès
+
+**Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)

@@ -76,3 +76,12 @@ Projet réalisé sur la base du template AdminBSBMterialDesign (github template 
 **Today's Progress**: Essai de création d'une nouvelle section reprennant le fond de la première section avec le code CSS intégré directement dans la page htmml sans succès
 
 **Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)
+
+### Day 7: 12 Juillet 2019
+##### CMSsite - Cash Mail System site OnePage
+
+**Today's Progress**: Création d'une nouvelle section  partir de la section footer. 
+
+Fin du projet de CMSsite
+
+**Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)

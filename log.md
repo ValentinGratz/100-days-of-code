@@ -85,3 +85,16 @@ Projet réalisé sur la base du template AdminBSBMterialDesign (github template 
 Fin du projet de CMSsite
 
 **Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)
+
+### Day 8: 15 Juillet 2019
+##### CMSsite - Cash Mail System site OnePage
+
+**Today's Progress**: Ajout d'une nouvelle section en faisant un copier/coller de la premièere section.
+
+Ajout d'images
+
+Création d'une nouvelle version v0.1.1
+
+Fin du projet de CMSsite
+
+**Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)

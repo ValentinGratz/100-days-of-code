@@ -98,3 +98,13 @@ Création d'une nouvelle version v0.1.1
 Fin du projet de CMSsite
 
 **Link to work:** [CMSsite](https://github.com/ValentinGratz/CMSsite)
+
+Après une longue période d'inactivité sur le challenge, je le reprend.
+
+
+### Day 9: 2 décembre 2019
+##### Page de diaporama
+
+**Today's Progress**: Exercice de création d'un diaporama en utilisant du javascript pour les images. 5Exercice réalisé pendant la préqualification)
+
+**Link to work:** [Mini-site diaporama](https://github.com/ValentinGratz/mini-site-diaporama)

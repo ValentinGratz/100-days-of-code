@@ -108,3 +108,11 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 **Today's Progress**: Exercice de création d'un diaporama en utilisant du javascript pour les images. 5Exercice réalisé pendant la préqualification)
 
 **Link to work:** [Mini-site diaporama](https://github.com/ValentinGratz/mini-site-diaporama)
+
+### Day 10: 9 décembre 2019
+
+**Today's Progress**: Exercice de création d'un jeu "trouve le nombre" en javascript.
+
+**Thoughts:** Reste à voir pour effacer le div 'repList' quand une nouvelle partie commence
+
+**Link to work:** [Jeu de nombre](https://github.com/ValentinGratz/jeu-de-nombre)

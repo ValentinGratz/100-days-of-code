@@ -109,10 +109,16 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 **Link to work:** [Mini-site diaporama](https://github.com/ValentinGratz/mini-site-diaporama)
 
-### Day 10: 9 décembre 2019
+### Day 11: 13 décembre 2019
 
 **Today's Progress**: Exercice de création d'un jeu "trouve le nombre" en javascript.
 
-**Thoughts:** Reste à voir pour effacer le div 'repList' quand une nouvelle partie commence
+**Thoughts:** Exercice fini
 
 **Link to work:** [Jeu de nombre](https://github.com/ValentinGratz/jeu-de-nombre)
+
+### Day 11: 13 décembre 2019
+
+**Today's Progress**: Exercice de création dans une sorte de cadre de travail, un objet en javascript
+
+**Link to work:** [Exercice de rectangle en javascript](https://github.com/ValentinGratz/exercice-rectangle-javascript)

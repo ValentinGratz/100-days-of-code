@@ -117,8 +117,16 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 **Link to work:** [Jeu de nombre](https://github.com/ValentinGratz/jeu-de-nombre)
 
-### Day 11: 13 décembre 2019
+
 
 **Today's Progress**: Exercice de création dans une sorte de cadre de travail, un objet en javascript
 
 **Link to work:** [Exercice de rectangle en javascript](https://github.com/ValentinGratz/exercice-rectangle-javascript)
+
+### Day 12: 16 décembre 2019
+
+**Today's Progress**: Creéation du jeu snake en javascript
+
+**Thoughts:** : Reste le comptage des points et son affichage
+
+**Link to work:** [Snake JS](https://github.com/ValentinGratz/Snake-JS)

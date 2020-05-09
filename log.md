@@ -125,8 +125,20 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 ### Day 12: 16 décembre 2019
 
-**Today's Progress**: Creéation du jeu snake en javascript
+**Today's Progress**: Création du jeu snake en javascript
 
 **Thoughts:** : Reste le comptage des points et son affichage
 
 **Link to work:** [Snake JS](https://github.com/ValentinGratz/Snake-JS)
+
+**Today's Progress**: Exercice de création dans une sorte de cadre de travail, un objet en javascript
+
+**Link to work:** [Exercice de rectangle en javascript](https://github.com/ValentinGratz/exercice-rectangle-javascript)
+
+### Day 13: 9 mai 2020
+
+**Today's Progress**: Création du formulaire "attestation de déplacement professionnelle Covid-19"
+
+**Thoughts:** : résoudre le bug d'affichage du formulaire
+
+**Link to work:** [Attestation Covid-19 professionnelle](https://github.com/ValentinGratz/covid-19-certificate-pro)

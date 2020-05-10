@@ -148,3 +148,11 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 **Thoughts:** : appliquer le rendu sur toute la page, et centré le tableau (les lettres)
 
 **Link to work:** [Airport Coming Soon page](https://github.com/ValentinGratz/airport-coming-soon)
+
+### Day 13: 10 mai 2020
+
+**Today's Progress**: Résolution du bug d'affichage "attestation de déplacement professionnelle Covid-19
+
+**Thoughts:** : résolution du bug d'affichage + nouveau bug apparus.
+
+**Link to work:** [Attestation Covid-19 professionnelle](https://github.com/ValentinGratz/covid-19-certificate-pro)

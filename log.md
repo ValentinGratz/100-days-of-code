@@ -109,7 +109,7 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 **Link to work:** [Mini-site diaporama](https://github.com/ValentinGratz/mini-site-diaporama)
 
-### Day 11: 13 décembre 2019
+### Day 10: 13 décembre 2019
 
 **Today's Progress**: Exercice de création d'un jeu "trouve le nombre" en javascript.
 
@@ -123,7 +123,7 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 **Link to work:** [Exercice de rectangle en javascript](https://github.com/ValentinGratz/exercice-rectangle-javascript)
 
-### Day 12: 16 décembre 2019
+### Day 11: 16 décembre 2019
 
 **Today's Progress**: Création du jeu snake en javascript
 
@@ -135,10 +135,16 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 **Link to work:** [Exercice de rectangle en javascript](https://github.com/ValentinGratz/exercice-rectangle-javascript)
 
-### Day 13: 9 mai 2020
+### Day 12: 9 mai 2020
 
 **Today's Progress**: Création du formulaire "attestation de déplacement professionnelle Covid-19"
 
 **Thoughts:** : résoudre le bug d'affichage du formulaire
 
 **Link to work:** [Attestation Covid-19 professionnelle](https://github.com/ValentinGratz/covid-19-certificate-pro)
+
+**Today's Progress**: Création d'une page "Coming Soon" Airport affichage
+
+**Thoughts:** : appliquer le rendu sur toute la page, et centré le tableau (les lettres)
+
+**Link to work:** [Airport Coming Soon page](https://github.com/ValentinGratz/airport-coming-soon)

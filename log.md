@@ -156,3 +156,9 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 **Thoughts:** : résolution du bug d'affichage + nouveau bug apparus.
 
 **Link to work:** [Attestation Covid-19 professionnelle](https://github.com/ValentinGratz/covid-19-certificate-pro)
+
+### Day 14: 13 mai 2020
+
+**Today's Progress**: Ajout lien + formulaire pour attestation de déplacement collectif en Île de France (v 0.2.0)
+
+**Link to work:** [Attestation Covid-19 professionnelle](https://github.com/ValentinGratz/covid-19-certificate-pro)

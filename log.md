@@ -163,8 +163,14 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 **Link to work:** [Attestation Covid-19 professionnelle](https://github.com/ValentinGratz/covid-19-certificate-pro)
 
-### Day 15 : 21 septembre 2020
+### Day 14 & 15 : 21 septembre 2020
 
 **Today's Progress**: Exercices avec corrections réalisé en formation dev web et web mobile
 
 **Link to work:** [Exercices HTML CSS et JS fait en formation](https://github.com/ValentinGratz/exercice_formation_html_css_js)
+
+### Day 14 & 15 : 21 septembre 2020
+
+**Today's Progress**: Exercices proposé dans les trois livres de Pierre Giraud
+
+**Link to work:** [Exercices livre Pierre Giraud](https://github.com/ValentinGratz/Exercice_Pierre_Giraud)

@@ -165,11 +165,11 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 
 ### Day 14 & 15 : 21 septembre 2020
 
-**Today's Progress**: Exercices avec corrections réalisé en formation dev web et web mobile
+**Today's Progress**: Exercices avec corrections réalisé en formation dev web et web mobile + day 14 a 16
 
 **Link to work:** [Exercices HTML CSS et JS fait en formation](https://github.com/ValentinGratz/exercice_formation_html_css_js)
 
-### Day 14 & 15 : 21 septembre 2020
+### Day 14 & 15 & 16 : 20, 21 et 22 septembre 2020
 
 **Today's Progress**: Exercices proposé dans les trois livres de Pierre Giraud
 

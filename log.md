@@ -174,3 +174,9 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 **Today's Progress**: Exercices proposé dans les trois livres de Pierre Giraud
 
 **Link to work:** [Exercices livre Pierre Giraud](https://github.com/ValentinGratz/Exercice_Pierre_Giraud)
+
+### Day 17 : 23 septembre 2020
+
+**Today's Progress**: réaliser un site d'après une image en 24h
+
+**Link to work:** [Challenge site image](https://github.com/ValentinGratz/challenge_site_image)

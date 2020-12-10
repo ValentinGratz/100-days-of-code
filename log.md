@@ -180,3 +180,18 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 **Today's Progress**: réaliser un site d'après une image en 24h
 
 **Link to work:** [Challenge site image](https://github.com/ValentinGratz/challenge_site_image)
+
+### Day 18 : 26 novembre 2020
+
+**Today's Progress**: initiation à git 
+
+**Link to work:** [TK GrafikArt CMS](https://github.com/ValentinGratz/TP_sitePHP_grafikart)
+
+
+### Day 19 : 10 décembre 2020
+
+**Today's Progress**: entrainement sur le logiciel git 
+
+Possibilité de modification du repo avec d'autres testes de ce genre.
+
+**Link to work:** [demoGit](https://github.com/ValentinGratz/demoGit)

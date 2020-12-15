@@ -195,3 +195,12 @@ Après une longue période d'inactivité sur le challenge, je le reprend.
 Possibilité de modification du repo avec d'autres testes de ce genre.
 
 **Link to work:** [demoGit](https://github.com/ValentinGratz/demoGit)
+
+### Day 20-21 : 14/15 décembre 2020
+
+**Today's Progress**: entrainement Symfony
+
+Reprise d'un template html pour le refaire avec Symfony
+
+**Link to work 1 (fichier originel) :** [burgerking-main](https://github.com/ValentinGratz/burgerking-main)
+**Link to work 2 :** [BurgerKingSF](https://github.com/ValentinGratz/burgerkingsf)

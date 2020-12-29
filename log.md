@@ -196,7 +196,7 @@ Possibilité de modification du repo avec d'autres testes de ce genre.
 
 **Link to work:** [demoGit](https://github.com/ValentinGratz/demoGit)
 
-### Day 20-21 : 14/15 décembre 2020
+### Day 20-21-22-23-24 : 14/15/16/17/18 décembre 2020
 
 **Today's Progress**: entrainement Symfony
 

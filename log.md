@@ -204,3 +204,36 @@ Reprise d'un template html pour le refaire avec Symfony
 
 **Link to work 1 (fichier originel) :** [burgerking-main](https://github.com/ValentinGratz/burgerking-main)
 **Link to work 2 :** [BurgerKingSF](https://github.com/ValentinGratz/burgerkingsf)
+
+### Day 25-26-27-28-29-30 : 14/15/16/17/18 décembre 2020
+
+**Today's Progress**: Exercice PHP VideoClub
+
+Publier récement sur le git. 
+
+**Link to work:** [VideoClub_exercice](https://github.com/ValentinGratz/VideoClub_exercice)
+
+### Day 31-32 : 22-23 décembre 2020
+
+**Today's Progress**: Plugin WordPress
+
+Rapide présentation et création d'un plugin WordPress
+
+**Link to work:** [Plugin WordPress](https://github.com/ValentinGratz/SupWPPlugin)
+
+### Day 33 : 4 janvier 2021
+
+**Today's Progress**: Création d'une API en json 
+
+Essaie de réalisation. 
+
+**Link to work:** [APIExo](https://github.com/ValentinGratz/apiExoVG1)
+
+### Day 34 : 6 janvier 2021
+
+**Today's Progress**: Création d'un minichat d'abord en HTML/CSS puis par la suite sur Symfony.
+
+**TAF** : finir de refaire sur Symfony + Ajax pour le chargement des messages. 
+
+**Link to work:** [Minichat (HTML CSS JS)](https://github.com/ValentinGratz/minichat_Ajax_HTMLCSS)
+**Link to work:** [Minichat Symfony](https://github.com/ValentinGratz/minichat_Ajax_Symfo)

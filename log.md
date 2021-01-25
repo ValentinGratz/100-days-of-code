@@ -237,3 +237,10 @@ Essaie de réalisation.
 
 **Link to work:** [Minichat (HTML CSS JS)](https://github.com/ValentinGratz/minichat_Ajax_HTMLCSS)
 **Link to work:** [Minichat Symfony](https://github.com/ValentinGratz/minichat_Ajax_Symfo)
+
+### Day 35-36-37-38-39-40-41-42 : 11 au 20 janvier 2021
+
+**Thoughts:** CCP 2 - évaluation formation DWWM N\
+Évaluation (repo en privé)
+
+**Link to work:** [PRIVÉ]
